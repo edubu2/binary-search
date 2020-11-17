@@ -2,7 +2,7 @@
 
 My objective is to compare the efficiency of binary search vs. linear search methods.
 For this example I am using sample data provided by python's 'faker' library, which gave me 10,000 sample names (first + last).
-`utils.py` pulls these names into a fake list that is used by `search_binary.py` and `search_linear.py` to return the index of a certain value (key).
+`utils.py` pulls these names into a list that is used by `search_binary.py` and `search_linear.py` to return the index of a certain value (key).
 
 In order to see the difference, we will search for every name in the list using both methods, and compare the results.
 

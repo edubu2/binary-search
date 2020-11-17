@@ -8,7 +8,7 @@ In order to see the difference, we will search for every name in the list using 
 
 ## To reproduce locally:
 1. Fork this repository to your local machine & cd into the repository
-2. From the command-line, enter pip3 install faker
+2. From the command-line, `enter pip3 install faker`
 3. from the command line (Linux/MacOS), create the 'names.txt' file by using the following command:
 - `python3 name_generator.py 10000 > names.txt`
 4. Finally, enter the following two commands and compare the results:

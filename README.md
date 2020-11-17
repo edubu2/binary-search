@@ -18,6 +18,7 @@ In order to see the difference, we will search for every name in the list using 
 
 ## Results from my machine
 `python3 search_linear.py  2.19s user 0.01s system 99% cpu 2.199 total`
+
 `python3 search_binary.py  0.06s user 0.01s system 95% cpu 0.073 total`
 
 
